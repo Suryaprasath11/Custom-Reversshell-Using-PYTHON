@@ -4,4 +4,6 @@ dist/
 
 .env
 
+assets/
+
 rat.spec
